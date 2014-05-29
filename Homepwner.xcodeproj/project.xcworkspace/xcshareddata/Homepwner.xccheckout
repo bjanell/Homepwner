@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>0BB294B5-F416-4EDB-B6FA-1E8A22C3AB7B</string>
+	<string>E710CC99-2035-4DF6-8A8C-CF219E6C2E03</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Homepwner</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>9B480019-53FA-4208-9A13-65B05FC5E305</key>
-		<string>https://github.com/bjanell/homepwner.git</string>
+		<key>A6D462D6-7B2E-4C3D-9E81-FC856870A80C</key>
+		<string>https://github.com/bjanell/Homepwner.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Homepwner.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>9B480019-53FA-4208-9A13-65B05FC5E305</key>
+		<key>A6D462D6-7B2E-4C3D-9E81-FC856870A80C</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/bjanell/homepwner.git</string>
+	<string>https://github.com/bjanell/Homepwner.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9B480019-53FA-4208-9A13-65B05FC5E305</string>
+	<string>A6D462D6-7B2E-4C3D-9E81-FC856870A80C</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>9B480019-53FA-4208-9A13-65B05FC5E305</string>
+			<string>A6D462D6-7B2E-4C3D-9E81-FC856870A80C</string>
 			<key>IDESourceControlWCCName</key>
-			<string>homepwner</string>
+			<string>Homepwner</string>
 		</dict>
 	</array>
 </dict>
