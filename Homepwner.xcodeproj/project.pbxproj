@@ -54,8 +54,8 @@
 		324FC4621936A4FB00A765ED /* HomepwnerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HomepwnerTests-Info.plist"; sourceTree = "<group>"; };
 		324FC4641936A4FB00A765ED /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		324FC4661936A4FB00A765ED /* HomepwnerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomepwnerTests.m; sourceTree = "<group>"; };
-		324FC4701936AEE400A765ED /* BNRItemsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BNRItemsViewController.h; sourceTree = "<group>"; };
-		324FC4711936AEE400A765ED /* BNRItemsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BNRItemsViewController.m; sourceTree = "<group>"; };
+		324FC4701936AEE400A765ED /* BNRItemsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BNRItemsViewController.h; path = ../BNRItemsViewController.h; sourceTree = "<group>"; };
+		324FC4711936AEE400A765ED /* BNRItemsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BNRItemsViewController.m; path = ../BNRItemsViewController.m; sourceTree = "<group>"; };
 		324FC4731936B1B300A765ED /* BNRItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BNRItem.h; sourceTree = "<group>"; };
 		324FC4741936B1B300A765ED /* BNRItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BNRItem.m; sourceTree = "<group>"; };
 		324FC4761936B25200A765ED /* BNRItemStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BNRItemStore.h; sourceTree = "<group>"; };
@@ -94,8 +94,6 @@
 		324FC4351936A4FB00A765ED = {
 			isa = PBXGroup;
 			children = (
-				324FC4701936AEE400A765ED /* BNRItemsViewController.h */,
-				324FC4711936AEE400A765ED /* BNRItemsViewController.m */,
 				324FC4471936A4FB00A765ED /* Homepwner */,
 				324FC4601936A4FB00A765ED /* HomepwnerTests */,
 				324FC4401936A4FB00A765ED /* Frameworks */,
@@ -126,6 +124,8 @@
 		324FC4471936A4FB00A765ED /* Homepwner */ = {
 			isa = PBXGroup;
 			children = (
+				324FC4701936AEE400A765ED /* BNRItemsViewController.h */,
+				324FC4711936AEE400A765ED /* BNRItemsViewController.m */,
 				324FC4731936B1B300A765ED /* BNRItem.h */,
 				324FC4741936B1B300A765ED /* BNRItem.m */,
 				324FC4761936B25200A765ED /* BNRItemStore.h */,
